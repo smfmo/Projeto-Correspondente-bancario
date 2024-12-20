@@ -35,6 +35,9 @@ public class Contrato {
     }
 
 
+    public Contrato(){
+        
+    }
     public Integer getId() {
         return id;
     }
